@@ -22,13 +22,7 @@
 *color12: #579CEF
 
 !magenta
-*color5: #CE50DDURxvt*scrollBar:  false
-37
-URxvt*internalBorder: 8
-38
-URxvt*font: xft:DejaVu Sans Mono:pixelsize=12
-39
-URxvt*boldFont: xft:DejaVu Sans Mono:bold:pixelsize=12
+*color5: #CE50DD
 *color13: #E7766B
 
 !cyan
